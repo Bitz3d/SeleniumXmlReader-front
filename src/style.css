@@ -1,0 +1,35 @@
+.siteBody{
+    height: 980px;
+}
+
+.navbar
+{
+    height: 10%;
+    background-color:crimson;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer
+{
+    height: 5%;
+    background-color:aqua;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainContent{
+    height: 85%;
+    display: flex;
+    font-size: 100px;
+}
