@@ -5,7 +5,7 @@
 .navbar
 {
     height: 10%;
-    background-color:crimson;
+    background-color:rgb(28, 91, 133);
     color: whitesmoke;
     margin-bottom: 15px;
     text-align: center;
@@ -18,7 +18,7 @@
 .footer
 {
     height: 5%;
-    background-color:aqua;
+    background-color:darkslategray;
     color: whitesmoke;
     margin-bottom: 15px;
     text-align: center;
